@@ -1,0 +1,29 @@
+.stacker {
+  position: relative;
+  /* grid-template-columns: 500px ;
+  grid-template-row: 100px 100px 100px; */
+}
+
+article {
+  border: 1px solid blue;
+  position: relative;
+}
+
+article.box-1 {
+  position: relative;
+  width: 600px;
+  height: 40px;
+}
+
+article.box-2 {
+  position: relative;
+  left: 100px;
+  width: 400px;
+  height: 300px;
+}
+
+article.box-3 {
+  position: relative;
+  width: 600px;
+  height: 40px;
+}
